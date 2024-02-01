@@ -2,7 +2,6 @@
 I am a Computer Engineering University student who is passionate about Programming, Gaming (Game Dev also) and Embedded Systems
 
 
-- 🌱 I’m currently learning: C, C++, STM32, Arduino and OpenGL
 
 #### Programming Languages: 
 
@@ -10,8 +9,9 @@ I am a Computer Engineering University student who is passionate about Programmi
 - C#
 - Python
 - C++ 
+- C
 
-#### Tools and Tech:
+#### Tools:
 - Unity
 - Rider
 - VS Code
