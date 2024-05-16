@@ -1,28 +1,28 @@
 ### About me⚡
-I am a Computer Engineering University student who is passionate about Programming, Gaming (Game Dev also) and Embedded Systems
+I am a Computer Engineering University student who is passionate about Programming, Embedded Systems, IoT and FPGAs
 
+#### Programming Languages and HDLs: 
 
-
-#### Programming Languages: 
-
+- C++
+- C
 - Java
 - C#
 - Python
-- C++ 
-- C
+- Verilog
+- VHDL
 
 #### Tools:
-- Unity
-- Rider
-- VS Code
 - Visual Studio
-- Android Studio
-- IntelliJ IDEA
+- VS Code
+- Vivado
+- Quartus
 - Git
 - Arduino IDE
 - CubeIDE
-- OpenGL
-- SFML
+- PlatformIO
+- Android Studio
+- Unity
+
 
 
 
