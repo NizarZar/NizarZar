@@ -1,5 +1,5 @@
 ### About me⚡
-I am a Computer Engineering University student who is passionate about Programming, Embedded Systems, IoT and FPGAs
+I am a Computer Engineering University student who is passionate about Programming, Embedded Systems, Digital Design (ASIC & FPGA)
 
 #### Programming Languages and HDLs: 
 
@@ -10,8 +10,14 @@ I am a Computer Engineering University student who is passionate about Programmi
 - Python
 - Verilog
 - VHDL
+- TCL
+- Bash
 
 #### Tools:
+- Formality
+- Fusion Compiler
+- HSpice
+- Virtuoso
 - Visual Studio
 - VS Code
 - Vivado
